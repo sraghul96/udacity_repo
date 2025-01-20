@@ -10,3 +10,5 @@ List of `git` commands familiar with -
 6. git branch
 7. git branch -d # For Deleting branch
 8. git push --set--upstream
+9. git checkout
+10. git checkout -b
