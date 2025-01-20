@@ -7,3 +7,6 @@ List of `git` commands familiar with -
 3. git add
 4. git commit
 5. git push
+6. git branch
+7. git branch -d # For Deleting branch
+8. git push --set--upstream
